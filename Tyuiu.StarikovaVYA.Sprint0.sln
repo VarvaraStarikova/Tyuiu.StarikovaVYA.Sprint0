@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{E340D882-D93F-462C-A189-DDF69D137C4B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.StarikovaVYA.Sprint0.Task0.V0", "Tyuiu.StarikovaVYA.Sprint0.Task0.V0\Tyuiu.StarikovaVYA.Sprint0.Task0.V0.csproj", "{DC021BA0-A942-4F84-A3A4-11C2A914561B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.StarikovaVYA.Sprint0.Task1.V0", "Tyuiu.StarikovaVYA.Sprint0.Task1.V0\Tyuiu.StarikovaVYA.Sprint0.Task1.V0.csproj", "{BD2C94F1-E53F-4BD6-A286-B0BAF2C2A739}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,11 +21,19 @@ Global
 		{DC021BA0-A942-4F84-A3A4-11C2A914561B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC021BA0-A942-4F84-A3A4-11C2A914561B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC021BA0-A942-4F84-A3A4-11C2A914561B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2C94F1-E53F-4BD6-A286-B0BAF2C2A739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2C94F1-E53F-4BD6-A286-B0BAF2C2A739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2C94F1-E53F-4BD6-A286-B0BAF2C2A739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2C94F1-E53F-4BD6-A286-B0BAF2C2A739}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DC021BA0-A942-4F84-A3A4-11C2A914561B} = {E340D882-D93F-462C-A189-DDF69D137C4B}
+		{BD2C94F1-E53F-4BD6-A286-B0BAF2C2A739} = {36D591C7-65C7-A0D1-1CBC-10CDE441BDC8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E74A09A-8025-49BC-A049-5A96096051F4}
 	EndGlobalSection
 EndGlobal
