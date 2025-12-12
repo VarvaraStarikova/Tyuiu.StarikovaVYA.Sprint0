@@ -9,7 +9,7 @@ namespace Tyuiu.StarikovaVYA.Sprint0.Task2.V0.Test
         [TestMethod]
         public void CheckGetMessageValid()
         {
-            var name = "Роман";
+            var name = "Варвара";
             var res = DataService.GetMessage(name);
             Assert.AreEqual("Привет, Варвара", res);
         }
